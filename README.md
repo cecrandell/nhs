@@ -1,6 +1,6 @@
 # A note from the creator
 
-"For my masters dissertation, I collaborated with the NHS in the UK to develop a mental health electronic patient record system and self referal form. As my code now belongs to the NHS after submitting this project in September 2021, I am not permitted to publish my code publically. As such, I have provided the `README` from the original (private) NHS repository below, with several code snippets near the bottom. If you would like to see more code snippets or see a live demonstration, please email me using my contact details at the bottom of this page."
+"For my masters dissertation, I collaborated with the NHS in the UK to develop a mental health electronic patient record system and self referal form. **As my code now belongs to the NHS after submitting this project in September 2021, I am not permitted to publish my code publically.** As such, I have provided the `README` from the original (private) NHS repository below, with several code snippets near the bottom. If you would like to see more code snippets or see a live demonstration, please email me using my contact details at the bottom of this page."
 
 # Single Point of Access (SPA)
 
