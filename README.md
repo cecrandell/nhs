@@ -6,7 +6,9 @@
 
 ## Caroline Crandell - MSc Computer Science IXN Dissertation in partnership with the NHS (UK)
 
-[![YouTube](https://img.youtube.com/vi/prh2AlRaXaY/0.jpg)](https://www.youtube.com/watch?v=prh2AlRaXaY)
+![nhs.gif](images/nhs.gif)
+
+Find the full demo here on [YouTube](https://www.youtube.com/watch?v=prh2AlRaXaY).
 
 **What does this application do and why?**
 
