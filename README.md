@@ -1,6 +1,6 @@
 # A note from the creator
 
-"For my masters dissertation, I collaborated with the NHS in the UK to develop a mental health electronic patient record system and self referal form. **As my code now belongs to the NHS after submitting this project in September 2021, I am not permitted to publish my code publically.** As such, I have provided the `README` from the original (private) NHS repository below, with several code snippets near the bottom. If you would like to see more code snippets or see a live demonstration, please email me using my contact details at the bottom of this page."
+"For my masters dissertation, I collaborated with the NHS in the UK to develop a mental health electronic patient record system and self referal form. I was selected by Dr Joseph Connor (NHS, CarefulAI) to be the student lead, and as such, I led a weekly standup for 10+ of my peers also completing NHS industry projects at University College London (UCL). I developed, tested, deployed, and documented this application, to support patients accessing mental health services through the NHS. This online form notifies clinicians of new form submissions, reducing response time by 2 weeks for high-risk patients. **As my code now belongs to the NHS after submitting this project in September 2021, I am not permitted to publish my code publically.** As such, I have provided the `README` from the original (private) NHS repository below, with several code snippets near the bottom. If you would like to see more code snippets or see a live demonstration, please email me using my contact details at the bottom of this page."
 
 # Single Point of Access (SPA)
 
@@ -9,6 +9,20 @@
 ![nhs.gif](images/nhs.gif)
 
 Find the full demo here on [YouTube](https://www.youtube.com/watch?v=prh2AlRaXaY).
+
+
+**Technologies Used**
+
+- Django
+- Python
+- SQLite
+- Docker
+- Linux
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Twilio
 
 **What does this application do and why?**
 
@@ -241,17 +255,6 @@ And follow the prompts below within the Docker container:
 ## User Authentication
 
 ![userauthentication](images/snippets/userauthentication.png)
-
-**Technologies Used**
-
-- Django
-- Python
-- SQLite
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- Twilio
 
 **Developer**
 
